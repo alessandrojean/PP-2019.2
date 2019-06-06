@@ -3,6 +3,9 @@ slides/
 pdfs/
 bin/
 
+# Haskell stuff.
+.stack-work/
+
 # Editor stuff.
 .vscode/
 
