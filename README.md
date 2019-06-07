@@ -12,6 +12,7 @@ the Federal University of ABC (UFABC).
 ## Schedule
 
 - **05/06/2019** *(Laboratory)*: [Introduction to Haskell].
+- **07/06/2019** *(Theory)*: Programming Paradigms.
 
 [Introduction to Haskell]: laboratory/2019.06.05
 
