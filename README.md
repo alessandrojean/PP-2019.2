@@ -15,9 +15,11 @@ the Federal University of ABC (UFABC).
 - **07/06/2019** *(Theory)*: Programming Paradigms.
 - **12/06/2019** *(Laboratory)*: [Default types and classes].
 - **19/06/2019** *(Theory)*: Lambda Calculus.
+- **26/06/2019** *(Laboratory)*: [Functions].
 
 [Introduction to Haskell]: laboratory/2019.06.05/
 [Default types and classes]: laboratory/2019.06.12/
+[Functions]: laboratory/2019.06.26/
 
 ## Bibliography
 
