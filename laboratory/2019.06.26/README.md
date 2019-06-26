@@ -377,10 +377,10 @@ conceito final de cada aluno:
 -- calcula a média ponderada de p1, p2
 mediaPonderada :: (Eq a, Floating a) =>
 a -> a -> (a -> a -> a)
-5
+
 -- converte uma nota final em conceito
 converteNota :: (Ord a, Floating a) => a -> Char
-8
+
 -- calcula conceito final
 conceitoFinal :: Char -> Char -> Char
 ```
