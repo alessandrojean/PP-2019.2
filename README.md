@@ -17,10 +17,12 @@ the Federal University of ABC (UFABC).
 - **19/06/2019** *(Theory)*: Lambda Calculus.
 - **26/06/2019** *(Laboratory)*: [Functions].
 - **28/06/2019** *(Theory)*: Lists.
+- **03/07/2019** *(Laboratory)*: [QuickCheck and Caesar Cipher].
 
 [Introduction to Haskell]: laboratory/2019.06.05/
 [Default types and classes]: laboratory/2019.06.12/
 [Functions]: laboratory/2019.06.26/
+[QuickCheck and Caesar Cipher]: laboratory/2019.07.03/
 
 ## Bibliography
 
