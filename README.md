@@ -16,6 +16,7 @@ the Federal University of ABC (UFABC).
 - **12/06/2019** *(Laboratory)*: [Default types and classes].
 - **19/06/2019** *(Theory)*: Lambda Calculus.
 - **26/06/2019** *(Laboratory)*: [Functions].
+- **28/06/2019** *(Theory)*: Lists.
 
 [Introduction to Haskell]: laboratory/2019.06.05/
 [Default types and classes]: laboratory/2019.06.12/
