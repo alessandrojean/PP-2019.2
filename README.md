@@ -21,12 +21,14 @@ the Federal University of ABC (UFABC).
 - **05/07/2019** *(Theory)*: Recursion.
 - **10/07/2019** *(Laboratory)*: [Recursion Exercises].
 - **12/07/2019** *(Theory)*: Higher Order Functions.
+- **17/07/2019** *(Laboratory)*: [Voting Systems].
 
 [Introduction to Haskell]: laboratory/2019.06.05/
 [Default types and classes]: laboratory/2019.06.12/
 [Functions]: laboratory/2019.06.26/
 [QuickCheck and Caesar Cipher]: laboratory/2019.07.03/
 [Recursion Exercises]: laboratory/2019.07.10/
+[Voting Systems]: laboratory/2019.07.17/
 
 ## Bibliography
 
