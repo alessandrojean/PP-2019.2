@@ -1,4 +1,5 @@
 # Cifra de César
+*Retirado do roteiro de aula do Prof. Emilio Francesquini, CMCC/UFABC.*
 
 A Cifra de César é um algoritmo criptográfico que consiste em reescrever
 uma frase substituindo cada letra pela letra `n` posições adiante no alfabeto.
