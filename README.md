@@ -24,6 +24,7 @@ the Federal University of ABC (UFABC).
 - **17/07/2019** *(Laboratory)*: [Voting Systems].
 - **19/07/2019** *(Theory)*: **First test**.
 - **24/07/2019** *(Laboratory)*: [Algebraic Data Types and Classes].
+- **26/07/2019** *(Theory)*: Functors, Applicatives and Monads.
 
 [Introduction to Haskell]: laboratory/2019.06.05/
 [Default types and classes]: laboratory/2019.06.12/
