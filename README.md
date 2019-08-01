@@ -2,7 +2,7 @@
 ![Year][year] ![Id][id] ![T-P-I][tpi]
 
 Repository for the code written in the discipline of
-Programming Paradigms (*Paradigmas de Programação*) at 
+Programming Paradigms (*Paradigmas de Programação*) at
 the Federal University of ABC (UFABC).
 
 [year]: https://flat.badgen.net/badge/year/2019.2/blue
@@ -18,6 +18,7 @@ the Federal University of ABC (UFABC).
 - **26/06/2019** *(Laboratory)*: [Functions].
 - **28/06/2019** *(Theory)*: Lists.
 - **03/07/2019** *(Laboratory)*: [QuickCheck and Caesar Cipher].
+- **05/07/2019** *(Theory)*: Recursion.
 
 [Introduction to Haskell]: laboratory/2019.06.05/
 [Default types and classes]: laboratory/2019.06.12/
