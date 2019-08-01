@@ -25,6 +25,8 @@ the Federal University of ABC (UFABC).
 - **19/07/2019** *(Theory)*: **First test**.
 - **24/07/2019** *(Laboratory)*: [Algebraic Data Types and Classes].
 - **26/07/2019** *(Theory)*: Functors, Applicatives and Monads.
+- **31/07/2019** *(Laboratory)*: Lazyness - [The Most Unreliable Technique
+        in the World to Compute π].
 
 [Introduction to Haskell]: laboratory/2019.06.05/
 [Default types and classes]: laboratory/2019.06.12/
@@ -33,6 +35,7 @@ the Federal University of ABC (UFABC).
 [Recursion Exercises]: laboratory/2019.07.10/
 [Voting Systems]: laboratory/2019.07.17/
 [Algebraic Data Types and Classes]: laboratory/2019.07.24/
+[The Most Unreliable Technique in the World to Compute π]: laboratory/2019.07.31/
 
 ## Bibliography
 
