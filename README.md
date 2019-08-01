@@ -20,6 +20,7 @@ the Federal University of ABC (UFABC).
 - **03/07/2019** *(Laboratory)*: [QuickCheck and Caesar Cipher].
 - **05/07/2019** *(Theory)*: Recursion.
 - **10/07/2019** *(Laboratory)*: [Recursion Exercises].
+- **12/07/2019** *(Theory)*: Higher Order Functions.
 
 [Introduction to Haskell]: laboratory/2019.06.05/
 [Default types and classes]: laboratory/2019.06.12/
